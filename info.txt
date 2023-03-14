@@ -1,0 +1,32 @@
+2023-03-13
+Vue.js devtools -> chrome확장 브라우저 다운
+vscode
+-> 확장
+1. vetur
+2. marerial icon
+3. night owlclose Tag
+다운
+
+파일-기본설정-테마-파일아이콘테마- marerial icon
+파일-기본설정-테마-색테마- night owl
+
+MVVM(View-viewModel-Model) 패턴의 뷰모델레이어에 해당하면 화면단 라이브러리
+mdn object defineproperty
+
+컴포넌트
+- 화면의 영역을 구분하여 개발할 수 있는 뷰의 기능
+
+위에서 아래로 내려가는 데이터 -> props
+아래에서 위로 올라가는 데이터 -> Event
+
+2023-03-14
+
+1. event emit (event-emit.html)
+
+2. 같은 컴포넌트간의 통신 방법
+ -> appContent에서 appHeader에게 10이라는 데이터를 전달해보자
+ -> 상위컴포넌트로 올리고(event) 내려(props)
+
+ 3. 뷰 라우터
+ 
+
