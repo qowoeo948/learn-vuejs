@@ -1,0 +1,13 @@
+2023-03-14
+1. event emit (event-emit.html)
+
+2. 같은 컴포넌트간의 통신 방법
+ -> appContent에서 appHeader에게 10이라는 데이터를 전달해보자
+ -> 상위컴포넌트로 올리고(event) 내려(props)
+
+ 3. 뷰 라우터
+
+
+
+
+

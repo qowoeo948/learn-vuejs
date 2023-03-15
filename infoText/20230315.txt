@@ -1,0 +1,42 @@
+2023-03-15
+1. axios
+- https://github.com/axios/axios
+
+2. 자바스크립트의 비동기 처리 패턴
+  1) callback 2) promise 3) promise + generator 4) async & await
+
+
+3. Template
+  1) 데이터 바인딩
+  - data-binding.html
+  2) 디렉티브
+
+4. https://vuejs.org/ --> doc에 다 있음 검색해보면
+
+5. vue cli
+  -> vue cli 검색
+
+  1) terminal
+    -> node -v (10이상 버전이여야함)
+    -> npm -v (6점대 이상이면 됨)
+
+    -> 설치 = npm install -g @vue/cli (error나면 sudo권한으로 바꿔서해)
+    -> 여기 다운됐네 @vue/cli@5.0.8
+      C:\Users\ehdrb\AppData\Roaming\npm\node_modules\@vue\cli\node_modules\apollo-reporting-protobuf\node_modules\@apollo\protobufjs
+     
+
+6. vue 버전대 프로젝트 생성 명령어 차이
+  [Vue CLI 2.x]
+    vue init '프로젝트 템플릿 유형' '프로젝트 폴더 위치'
+    vue init webpack-simple '프로젝트 폴더 위치'
+
+  [Vue CLI 3.x]
+    vue create '프로젝트 폴더 위치'
+
+
+  - 생성 => vue create vue-cli (vue.cmd 명령어로 해야함)
+
+  -> 만든 vue-cli 접근 (cd vue-cli)
+  -> npm run serve
+
+
